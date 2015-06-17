@@ -1,7 +1,7 @@
 name: thinglybotstuff
 favicon: null
-layout_spectrum: 0.8
-typography_spectrum: 0.5
+layout_spectrum: 0.30263
+typography_spectrum: 0.67105
 cta:
   domain: null
   bucket: null
